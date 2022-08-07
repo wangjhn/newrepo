@@ -8,5 +8,6 @@ today is saturday
 create dev branch
 this is one create branch example
 hello moto
+it seem that cherry-pick doesn't run when other branch delete one file
 
 .
