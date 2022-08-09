@@ -10,5 +10,5 @@ this is one create branch example
 hello moto
 it seem that cherry-pick doesn't run when other branch delete one file
 just now create origin dev branch; try to connect local dev to origin dev
+today is tuesday and 8.9
 
-.
